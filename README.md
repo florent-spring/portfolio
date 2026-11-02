@@ -1,8 +1,7 @@
 # 📄 Florent SPRING — IT Support Technician & Systems Administrator
 
-> 📍 Montluçon, France | 📞 06.76.33.65.17 | 📧 florent.spring@ik.me  
-> 💼 [LinkedIn Profile](https://www.linkedin.com/in/florent-spring/) | 🐙 [GitHub Profile](https://github.com/florent-spring)
-
+> 📍 Montluçon, France | 📞 +33 6.76.33.65.17 | 📧 florent.spring@ik.me  
+> 💼 [LinkedIn Profile](https://www.linkedin.com/in/florent-spring/)
 ---
 
 ## ⚡ Professional Summary
